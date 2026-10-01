@@ -1,4 +1,4 @@
-# 💜 Blog das Gurias - Oficina Gurias of Code
+# 💜 Blog - Oficina Gurias of Code
 
 Este projeto foi desenvolvido para uma oficina do **Gurias of Code**, voltada para alunas do **Ensino Médio** que estão começando a conhecer e praticar desenvolvimento web.
 
