@@ -17,7 +17,7 @@ Todo o material necessário para a oficina já está disponível e organizado de
 Para começar:
 
 1. Clone ou baixe este repositório.
-2. Abra a pasta `blog-gurias-oficina` no **Visual Studio Code**.
+2. Abra a pasta no **Visual Studio Code**.
 3. Abra o arquivo `index.html` no navegador.
 4. Siga as etapas disponíveis na pasta `codigos/`.
 5. Escolha os componentes desejados e personalize o seu blog.
