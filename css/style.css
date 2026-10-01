@@ -1,0 +1,75 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* paleta de cores
+
+   ROXO
+   #7c3aed
+   #ede9fe
+
+   ROSA
+   #db2777
+   #fce7f3
+
+   AZUL
+   #2563eb
+   #dbeafe
+
+   VERDE
+   #059669
+   #d1fae5
+
+   LARANJA
+   #ea580c
+   #ffedd5
+*/
+
+
+/* ==========================================================
+   CLASSES PARA AS PARTICIPANTES TESTAREM
+   ========================================================== */
+
+/* Adicione class="meu-titulo" em algum título para testar. */
+.meu-titulo {
+    
+    color: #7c3aed;
+
+    font-size: 40px;
+}
+
+
+/* Adicione class="meu-botao" em um botão ou link. */
+.meu-botao {
+    /* 🎨 Fundo */
+    background-color: #7c3aed;
+
+    color: white;
+
+    padding: 12px 20px;
+
+    border-radius: 12px;
+}
+
+
+.minha-caixa {
+    background-color: white;
+
+    
+    border: 1px solid #e2e8f0;
+
+    
+    border-radius: 16px;
+
+   
+    padding: 24px;
+
+    
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+}
+
