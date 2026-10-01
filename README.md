@@ -1,27 +1,47 @@
-# Blog das Gurias — Oficina v3
+# 💜 Blog das Gurias - Oficina Gurias of Code
 
-Projeto didático, responsivo e organizado para iniciantes.
+Este projeto foi desenvolvido para uma oficina do **Gurias of Code**, voltada para alunas do **Ensino Médio** que estão começando a conhecer e praticar desenvolvimento web.
 
-## Comece por
+A proposta da atividade é construir e personalizar um blog utilizando conceitos básicos de **HTML, CSS e JavaScript**, de forma simples, prática e acessível para quem está tendo os primeiros contatos com programação web.
 
-`COMECE-AQUI.md`
+## 🚀 Como começar
 
-## Estrutura
+Não é necessário instalar nenhuma biblioteca, framework ou dependência.
 
-- `index.html`: mapa central da atividade e local onde o blog será montado.
-- `codigos/`: componentes numerados na mesma ordem do index.
-- `css/style.css`: CSS comentado para experimentação.
-- `js/main.js`: JavaScript da última etapa.
-- `assets/`: logo, Hero e imagens de cards.
-- `professores/GUIA-MINISTRANTES.md`: orientação para a equipe.
+Todo o conteúdo necessário para realizar a oficina já está disponível neste repositório.
 
-## Opções
+Para começar:
 
-- 3 Navbars
-- 3 Heroes
-- 6 Cards
-- 3 Rodapés
+1. Clone ou baixe este repositório.
+2. Abra a pasta do projeto no **Visual Studio Code**.
+3. Abra o arquivo `index.html` no navegador.
+4. Explore os exemplos disponíveis na pasta `codigos/`.
+5. Escolha e personalize os componentes para montar seu próprio blog.
 
-## Responsividade
+> A ideia é experimentar! Você pode alterar textos, cores, imagens e componentes para criar sua própria versão do blog.
 
-Os templates usam Tailwind com breakpoints para celular, tablet e desktop.
+## 📁 Estrutura do projeto
+
+```text
+blog-gurias-oficina/
+│
+├── assets/
+│   ├── cards/
+│   ├── hero/
+│   └── logo/
+│
+├── codigos/
+│   ├── 01-navbar/
+│   ├── 02-hero/
+│   ├── 03-cards/
+│   ├── 04-rodape/
+│   └── 05-javascript/
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── main.js
+│
+├── index.html
+└── README.md
